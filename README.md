@@ -9,7 +9,7 @@
 
 ## Revisa el Deploy acá: 
 
-[Ver]()
+[Ver](https://prueba-unidad-reactjs-jd.netlify.app/)
 
 ## Revisa el Repositorio acá: 
 
