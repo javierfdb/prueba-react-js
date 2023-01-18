@@ -16,7 +16,7 @@ const Mismemes = ({memazos, buscar}) => {
                               </div>
                           </div>
                     </div>
-               })};
+               })}
         </>
     )
     
