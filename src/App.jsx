@@ -107,6 +107,6 @@ const Refresh = () => {
 
   )
 
-};
+}
 
 export default App
