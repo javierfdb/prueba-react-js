@@ -14,7 +14,6 @@ const [ordenarAsc, setordenarAsc] = useState([]);
 const [ordenarDsc, setordenarDsc] = useState([]);
 const [loading, setLoading] = useState(true);
 
-
 const getMemes = async () => {
   const url = 'https://api.imgflip.com/get_memes';
   const response = await fetch(url)
